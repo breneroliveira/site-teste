@@ -1,3 +1,3 @@
 # site-teste
 
- Página teste de um site.
+ Página inicial de um site teste.
