@@ -1,3 +1,3 @@
-# projeto-site
+# site-teste
 
- Projeto inicial de um site.
+ Página teste de um site.
